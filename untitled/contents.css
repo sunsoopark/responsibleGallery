@@ -1,0 +1,5 @@
+li.poster_box {max-width: 240px;max-height:400px;height:auto;display: inline-block; text-align: center;margin: 6px;box-sizing: border-box;padding: 15px 15px 0 15px;border:1px solid #DDDDDD}
+
+li.poster_box img {background-size:contain;height:auto;max-width: 100%;width:100%;max-height:320px;margin-bottom: 15px;}
+li.poster_box p {overflow: hidden;white-space: nowrap;font-size: 1em}
+.contents_box {position:relative;max-width:980px;margin:0 auto;min-height:500px;padding:126px 10px 0 10px}
